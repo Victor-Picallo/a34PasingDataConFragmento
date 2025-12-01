@@ -10,6 +10,9 @@
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
-        android:text="Nombre del Pais"/>
+        android:text="Nombre del Pais"
+        android:textSize="40sp"
+        android:background="#CC88B4"/>
+
 
 </RelativeLayout>
